@@ -9,4 +9,4 @@ You can check this analysis in my [Heart Disease Jupyter-notebook](https://nbvie
 
 ## Results
 
-With this data, I built a model that can predict around 89% of chances of a person develop a Heart Disease or not, just by monitoring those other parametes.
+With this data, I built a model that can predict around 89% of chances of a person develop a Heart Disease or not, just by monitoring those other parameters.
