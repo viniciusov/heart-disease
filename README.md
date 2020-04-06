@@ -1,6 +1,6 @@
 ## About
 
-This repository is related [Heart Disease UCI Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
+This repository is related to [Heart Disease UCI Dataset](https://www.kaggle.com/ronitf/heart-disease-uci).
 In this dataset, is given some health conditions ([heart.csv](https://github.com/viniciusov/heart-disease/blob/master/heart.csv)) and if the respective person have a Heart Disease or not.
 
 ## Analysis
